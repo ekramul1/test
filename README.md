@@ -1,5 +1,10 @@
 # SampleRepository (test)
 
-test is a sample repository to facilitate collective git learning. Happy social coding. :)
+Test is a sample repository to facilitate collective git learning for newbies. Happy social coding. :) :) 
+
+
+
+
+
 
 
